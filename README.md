@@ -1,4 +1,5 @@
 # GPT-TOKENIZER
+<img width="700" alt="image" src="https://github.com/iamharshvardhan/gpt-tokenization/assets/82762146/c063df5a-da24-448f-a50f-bedd6da7fa68">
 
 This repository provides a basic demonstration of tokenizers used in NLP models like GPT-2, SentencePiece, etc. Tokenizers play a crucial role in natural language processing tasks by breaking down input text into smaller units, typically tokens, which are then used as input to NLP models.
 
